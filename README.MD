@@ -29,7 +29,6 @@
 pip install tkcalendar openpyxl
 راه‌اندازی و اجرا
 پروژه را کلون کنید:
-Bash
 
 git clone [https://github.com/amid-ahadi/Employee-Payroll-System.git](https://github.com/amid-ahadi/Employee-Payroll-System.git)
 
